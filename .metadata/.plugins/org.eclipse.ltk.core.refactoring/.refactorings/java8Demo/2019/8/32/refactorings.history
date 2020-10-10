@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DefautMethodDemo1.java&apos; to &apos;java8Demo/src/defaultDemo&apos;&#x0D;&#x0A;- Original project: &apos;java8Demo&apos;&#x0D;&#x0A;- Destination element: &apos;java8Demo/src/defaultDemo&apos;&#x0D;&#x0A;- Original element: &apos;defaultDemo.DefautMethodDemo1.java&apos;" description="Copy compilation unit" destination="/src&lt;defaultDemo" element1="/src&lt;defaultDemo{DefautMethodDemo1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1565461855148" units="1" version="1.0"/>
+</session>
